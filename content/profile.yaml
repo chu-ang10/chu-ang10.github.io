@@ -17,9 +17,8 @@
     - R
     - Python
   tools:
-    - Laksa
-    - Pandan
-    - Chiffon
+    - r-studio
+    - VSCode
   budget:
     currency: $
     min: 1
