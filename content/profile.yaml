@@ -1,0 +1,27 @@
+- profile:
+  initials: CH
+  name: Chanel Huang
+  profession: Data Scientist
+  image: images/profile.jpg
+  location: Singapore
+  relocation: true
+  company: MTI
+  for_hire: true
+  focus: Python
+  focus_url: https://www.python.org/
+  about: |
+    Hello, my name is Chanel and I am a data scientist. I have worked in the tourism industry and for the Singaporean government in the past, but I have retrained to become a data scientist over the pandemic.
+    
+    I am currently working on COVID data models for the Singaporean government. I am fluent in English, Chinese, and Hokkien, and I love to travel.
+  skills:
+    - R
+    - Python
+  tools:
+    - Laksa
+    - Pandan
+    - Chiffon
+  budget:
+    currency: $
+    min: 1
+    max: 30
+    default: 5
