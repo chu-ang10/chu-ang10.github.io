@@ -4,7 +4,7 @@ module.exports = {
     description: `Hey! I'm Chanel, a Singaporean adventurer.`,
     locale: `en`,
     author: `Chanel Huang`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://chu-ang10.github.io/`,
     formspreeEndpoint: "https://formspree.io/f/mrgjqdjv",
   },
   plugins: [
@@ -15,7 +15,6 @@ module.exports = {
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
-        theme: "classic",
         showThemeLogo: false,
         basePath: "/",
         theme: "bright-green",
