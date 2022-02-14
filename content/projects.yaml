@@ -1,18 +1,14 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+- name: Covid Migrations
+  description: Migrate Covid 19 scripts from R to Python.
   status: in progress
   tags:
-    - JavaScript
-    - Gatsby
-  icon: github
+    - R
+    - Python
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Deloitte Website
+  description: Work closely with business stakeholders to overhaul 100M+ daily views website.
   status: live
   tags:
     - JavaScript
     - HTML
   icon: website
-  image: images/project.jpg

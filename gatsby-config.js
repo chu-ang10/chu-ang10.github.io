@@ -2,8 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Chanel Huang`,
     description: `Hey! I'm Chanel, a Singaporean adventurer.`,
+    locale: `en`,
     author: `Chanel Huang`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    formspreeEndpoint: "https://formspree.io/f/mrgjqdjv",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -14,7 +16,9 @@ module.exports = {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
         theme: "classic",
+        showThemeLogo: false,
         basePath: "/",
+        theme: "bright-green",
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
